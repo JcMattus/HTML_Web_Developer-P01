@@ -1,2 +1,2 @@
 # :bookmark_tabs: HTML Web Developer - Projeto 01
-Repositório Criado Para o Estudo na Plataforma DIO
+Projeto do Bootcamp Formação HTML Web Developer - Criar Uma Página Web Utilizando as Tags Aprendidas.
